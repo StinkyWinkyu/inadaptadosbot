@@ -1,0 +1,12 @@
+{
+      "READ_THIS": "BOT_TOKEN must be edit at .env",
+      "prefix": "i!",
+      "host": "http://gdpsinad.000webhostapp.com/database",
+      "owner": "772780154338017340",
+      "statusbot": "online",
+      "actionbot": "PLAYING",
+      "channel": {
+      "gdpsstatus": "channel_id",
+      "ratestatus": "channel_id"
+      }
+}
